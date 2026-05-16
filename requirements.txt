@@ -1,5 +1,5 @@
 fastapi
-python-dotenv
+uvicorn[standard]
 openai
 pillow
 pdf2image
@@ -8,4 +8,6 @@ scikit-learn
 pandas
 numpy
 joblib
-
+python-dotenv
+python-multipart
+pydantic[email]
