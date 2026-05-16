@@ -1,0 +1,11 @@
+fastapi
+python-dotenv
+openai
+pillow
+pdf2image
+xgboost
+scikit-learn
+pandas
+numpy
+joblib
+
