@@ -15,4 +15,4 @@ app.include_router(upload.router, prefix="/api/upload", tags=["Upload"])
 
 @app.get("/")
 def root():
-    return {"message": "CBC Analyzer API ✅"}
+    return {"message": "CBC Analyzer API is running"}
